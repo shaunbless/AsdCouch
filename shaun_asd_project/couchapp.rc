@@ -1,0 +1,10 @@
+{
+  "env": {
+    "local": {
+      "db": "http://127.0.0.1:5984/shaunauto"
+    },
+    "cloudant": {
+      "db": "https://hervarlypenchicksteperys:3kBm5FABjj6RDQ8SfoToHnGu@shaunblessedu.cloudant.com/shaunauto/"
+    }
+  }
+}
